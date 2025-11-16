@@ -2,7 +2,7 @@
 
 
 - Atualmente trabalho com Python
-- Estudando automações
+- Resolvo problemas do dia a dia automatizando tudo com robôs
 
   <div>
   
