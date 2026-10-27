@@ -43,22 +43,13 @@ Desenvolvedor focado em **automação de processos** e **desenvolvimento web de 
 
 ---
 
-### Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wynne1&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynne1&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ### Contato
 
 <p align="center">
   <a href="mailto:douglascristiano.coder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="<SEU LINKEDIN>">
+  <a href="<https://www.linkedin.com/in/douglas-cristiano/>">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
