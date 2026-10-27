@@ -14,10 +14,10 @@
 
 Desenvolvedor focado em **automação de processos** e **desenvolvimento web de ponta a ponta**. Transformo tarefas repetitivas em bots confiáveis e construo aplicações completas: do banco de dados à interface.
 
-- 🤖 **Automação & Bots** — Selenium e PyAutoGUI para web scraping, monitoramento e automação de rotinas
-- 🌐 **Full-Stack** — APIs, front-end e banco de dados integrados
-- 🏢 **Automação corporativa** — robôs que automatizam processos e rotinas internas de empresas
-- 🧠 **IA aplicada** — uso de IA para acelerar e enriquecer as entregas
+- 🤖 **Automação & Bots** Selenium e PyAutoGUI para web scraping, monitoramento e automação de rotinas
+- 🌐 **Full-Stack** APIs, front-end e banco de dados integrados
+- 🏢 **Automação corporativa** robôs que automatizam processos e rotinas internas de empresas
+- 🧠 **IA aplicada** uso de IA para acelerar e enriquecer as entregas
 
 ---
 
