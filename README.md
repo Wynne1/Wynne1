@@ -49,7 +49,7 @@ Desenvolvedor focado em **automação de processos** e **desenvolvimento web de 
   <a href="mailto:douglascristiano.coder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="<https://www.linkedin.com/in/douglas-cristiano/">
+  <a href="https://www.linkedin.com/in/douglas-cristiano/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
